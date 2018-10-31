@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"false"
+			],
+			[
+				"arch",
+				"archlinux-icon-crystal-64"
+			],
+			[
+				"s",
+				"svg"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control:p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Lint",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/arch/Dronne34/arch-config/conky/syclo/clock",
+		"/usr/share/vlc/utils/video-vlc-default.sh",
+		"/home/arch/.config/cava/config",
+		"/home/arch/.config/tilda/config_0",
+		"/usr/share/smplayer/input.conf",
+		"/usr/share/pacman/keyrings/arcolinux.gpg",
+		"/usr/share/pacman/keyrings/arcolinux-trusted",
+		"/home/arch/.config/conky/syclo/images/crimson/convert-with-imagemagick",
+		"/home/arch/.config/Trolltech.conf",
+		"/home/arch/Downloads/Arc-Theme-Colora-master/arc-theme/build-aux/install-sh",
+		"/home/arch/Downloads/Arc-Theme-Colora-master/arc-theme/README.md",
+		"/home/arch/.local/share/vlc/lua/intf/syncplay.lua",
+		"/usr/share/vlc/skins2/skin.catalog",
+		"/usr/share/vlc/skins2/skin.dtd",
+		"/usr/share/vlc/utils/gnome-vlc-default.sh",
+		"/usr/share/vlc/utils/audio-vlc-default.sh",
+		"/usr/share/vlc/lua/http/dialogs/stream_config_window.html",
+		"/home/arch/.icons/Sardi-Flat/change-color.sh",
+		"/home/arch/Downloads/Arc-Theme-Colora-master/installation2.sh",
+		"/home/arch/Downloads/VLCSkinEditor_unix/README.TXT",
+		"/home/arch/Downloads/VLCSkinEditor_unix/~/.vlc/VLCSkinEditor.cfg",
+		"/home/arch/Downloads/maia-gtk-theme/PKGBUILD",
+		"/home/arch/Downloads/vertex-maia-themes-master/whiskermenu-manjaro.patch",
+		"/home/arch/Downloads/vertex-maia-themes-master/used-colors.txt",
+		"/home/arch/Downloads/VLCSkinEditor_unix/VLCSkinEditor",
+		"/home/arch/.cache/.fr-oKDgLI/TvList.txt",
+		"/home/arch/Pictures/wallhaven.sh",
+		"/home/arch/.bash_history",
+		"/home/arch/Dronne34/AUR-Acros.conkyrc",
+		"/home/arch/Downloads/Minority Report (2002)/Minority.Report.2002.720p.BluRay.x264.YIFY.txt",
+		"/home/arch/Downloads/Minority Report (2002)/Minority.Report.2002.720p.BluRay.x264.YIFY.srt",
+		"/home/arch/.icons/Sardi-Flat/create-new-icon-theme.cache.sh",
+		"/home/arch/.icons/Sardi-Flat/index.theme",
+		"/home/arch/Downloads/Edge of Darkness (2010)/Edge.of.Darkness.2010.720p.BrRip.x264.YIFY.srt",
+		"/home/arch/.subversion/README.txt",
+		"/home/arch/Desktop/Sardi-Flat/change-color.sh",
+		"/home/arch/.tv.txt",
+		"/home/arch/.config/vlc/vlcrc",
+		"/home/arch/.config/vlc/vlc-qt-interface.conf",
+		"/usr/share/applications/vlc.desktop",
+		"/usr/share/applications/geoclue-where-am-i.desktop",
+		"/home/arch/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/usr/share/applications/xfce-wm-settings.desktop",
+		"/home/arch/Desktop/untitled.ui",
+		"/home/arch/www.scoalarutiera.ro/chestionare-auto-b",
+		"/home/arch/.local/share/vlc/catalog.xml",
+		"/home/arch/Desktop/tv.txt",
+		"/home/arch/.cache/.fr-5YKIF8/Readme.txt",
+		"/home/arch/Desktop/tvmaxe.txt",
+		"/home/arch/.config/Thunar/uca.xml",
+		"/home/arch/.local/share/vlc/ml.xspf",
+		"/home/arch/Downloads/manjaroiso-master/src/buildiso",
+		"/home/arch/Downloads/manjaroiso-master/README",
+		"/home/arch/Downloads/manjaroiso-master/TODO",
+		"/home/arch/Downloads/manjaroiso-master/cleanup",
+		"/home/arch/Downloads/index.m3u8",
+		"/home/arch/Desktop/tvmaxe",
+		"/home/arch/Desktop/szRQq0Px",
+		"/home/arch/.config/diffuse/prefs",
+		"/home/arch/.bashrc",
+		"/home/arch/Dronne34/git-v1.sh",
+		"/home/arch/.cargo/registry/src/github.com-1ecc6299db9ec823/aho-corasick-0.6.4/README.md",
+		"/home/arch/Desktop/tytyt.txt",
+		"/home/arch/Dronne34/archlinux-bk/build.sh",
+		"/etc/cron.d/0hourly.pacsave",
+		"/home/arch/Desktop/git-v1.sh",
+		"/etc/cron.d/0hourly",
+		"/etc/cron.hourly/0anacron",
+		"/etc/mplayer/example.conf",
+		"/etc/mplayer/input.conf",
+		"/etc/mplayer/codecs.conf",
+		"/etc/mpv/encoding-profiles.conf",
+		"/home/arch/Dronne34/archlinux-bk/pacman.conf.work_dir",
+		"/home/arch/Dronne34/archlinux-bk/README.md",
+		"/home/arch/Dronne34/arch-config/conky/conky-spotify/scripts/album.sh",
+		"/home/arch/Dronne34/arch-config/conky/conky-spotify/scripts/cover.sh",
+		"/home/arch/Dronne34/arch-config/conky/conkyrc/AUR-Allinone.conkyrc",
+		"/home/arch/Dronne34/arch-config/conky/lua/clock.lua",
+		"/home/arch/Dronne34/arch-config/conky/rss/aurora_ds_rss",
+		"/home/arch/Dronne34/arch-config/conky/documentation/README.md",
+		"/home/arch/.config/variety/variety.conf",
+		"/home/arch/Downloads/The.Chronicles.Of.Riddick.2004.BRRiP.XVID.RoSubbed-RiSES/The.Chronicles.Of.Riddick.2004.BRRiP.XVID.RoSubbed-RiSES",
+		"/home/arch/Scripts/desktop.sh",
+		"/home/arch/.gitconfig",
+		"/tmp/.xfsm-ICE-V1M5QZ",
+		"/var/spool/cron/arch",
+		"/etc/conf.d/svnserve",
+		"/etc/pacman.d/arcolinux-mirrorlist",
+		"/etc/pam.d/crond",
+		"/etc/gtk-2.0/im-multipress.conf",
+		"/home/arch/Pictures/downloaded.txt",
+		"/home/arch/Pictures/cookies.txt",
+		"/tmp/crontab.dlKtTv",
+		"/home/arch/.config/variety/scripts/get_wallpaper",
+		"/home/arch/.config/variety/.last_change_time",
+		"/home/arch/.config/variety/scripts/set_wallpaper",
+		"/home/arch/.config/variety/wallpaper/wallpaper.jpg.txt",
+		"/etc/yaourtrc",
+		"/usr/share/variety/config/filters.txt",
+		"/usr/share/variety/config/variety.conf",
+		"/home/arch/Pictures/wget-image-scraper-master/sites.txt",
+		"/home/arch/Desktop/New Folder/wallhaven.sh",
+		"/home/arch/Desktop/NewFolder/wallhaven.sh",
+		"/home/arch/.config/autostart/plank.desktop",
+		"/home/arch/Dronne34/arch-config/README.md",
+		"/home/arch/Dronne34/arch-config/autostart/MPD.desktop",
+		"/home/arch/Dronne34/arch-config/conky/rss/rss_python.py",
+		"/home/arch/Dronne34/arch-config/conky/conkyrc/conky-sessionfile",
+		"/home/arch/.config/plank/dock1/launchers/xfce-ui-settings.dockitem",
+		"/home/arch/.config/plank/dock1/launchers/xfce4-taskmanager.dockitem",
+		"/home/arch/.local/share/applications/mimeapps.list",
+		"/home/arch/.local/share/tracker/data/.meta.isrunning",
+		"/home/arch/.config/variety/.firstrun",
+		"/home/arch/Pictures/jpg/696424",
+		"/home/arch/Pictures/wget-image-scraper-master/scraper.sh",
+		"/etc/cron.deny",
+		"/etc/anacrontab",
+		"/home/arch/Pictures/alpha.wallhaven.cc/robots.txt.tmp",
+		"/tmp/qtsingleapp-smplay-ca73-3e8-lockfile",
+		"/home/arch/dead.letter",
+		"/tmp/crontab.2hGLm6",
+		"/tmp/crontab.526SYS",
+		"/tmp/crontab.HnZtpi",
+		"/tmp/info.txt",
+		"/tmp/crontab.jvZQjl",
+		"/home/arch/archiso-org",
+		"/home/arch/Downloads/arcolinux-variety-git-18.10-1-any.pkg/etc/skel/.config/variety/variety.conf",
+		"/home/arch/Downloads/arcolinux-variety-git-18.10-1-any.pkg/etc/skel/.config/variety/scripts/set_wallpaper"
+	],
+	"find":
+	{
+		"height": 32.3212536729
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.3212536729
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "clock.sublime-project",
+	"replace":
+	{
+		"height": 61.7042115573
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 510.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 388.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

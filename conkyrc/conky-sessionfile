@@ -1,0 +1,4 @@
+conky -q -c ~/.config/conky/conkyrc/AUR-Allinone.conkyrc &
+conky -q -c ~/.config/conky/syclo/AP-clock-crimson-nobg-bottomleft.conkyrc &
+conky -q -c ~/.config/conky/conky-spotify/conky-spotify &
+exit 

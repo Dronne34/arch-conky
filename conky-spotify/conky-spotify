@@ -1,0 +1,46 @@
+conky.config = {
+    background = true,
+    -- font = 'Gamja Flower :size=8',
+    uppercase = false,
+    override_utf8_locale = true,
+    default_color = 'white',
+
+    alignment = 'top_right',
+    gap_x = 250,
+    gap_y = 120,
+    minimum_width = 450,
+    maximum_width = 450,
+
+    own_window = true,
+    own_window_type = 'desktop',
+    own_window_argb_visual = true,
+    own_window_transparent = true,
+    own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+
+    double_buffer = true,
+    draw_shades = false,
+    draw_outline = false,
+    draw_borders = false,
+    draw_graph_borders = false,
+
+    no_buffers = true,
+    use_xft = true,
+    xftalpha = 0.1,
+    cpu_avg_samples = 2,
+    update_interval = 1,
+    total_run_times = 0,
+    imlib_cache_size = 1,
+
+};
+
+conky.text = [[
+# --- Get Spotify Cover ---
+${if_running spotify}${color #00FF2A}
+${goto 128}${font Gamja Flower:size=13}Title:       ${color #00FAFF}${font Gamja Flower:size=14}${exec ~/.config/conky/conky-spotify/scripts//title.sh}${color #00FF2A}
+${goto 128}${font Gamja Flower:size=13}Artist:     ${color #00FAFF}${font Gamja Flower:size=14}${exec ~/.config/conky/conky-spotify/scripts//artist.sh}${color #00FF2A}
+${goto 128}${font Gamja Flower:size=13}Album:      ${color #00FAFF}${font Gamja Flower:size=14}${exec ~/.config/conky/conky-spotify/scripts//album.sh}
+
+${exec ~/.config/conky/conky-spotify/scripts/cover.sh}
+${image ~/.config/conky/conky-spotify/current/current.jpg -p 25,10 -s 90x90}
+${endif}
+]];
